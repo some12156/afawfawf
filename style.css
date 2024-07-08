@@ -1,0 +1,17 @@
+/* styles.css */
+
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+.container {
+    text-align: center;
+}
+
+#numbers {
+    margin-bottom: 20px;
+}
+
+button {
+    margin-top: 20px;
+}
